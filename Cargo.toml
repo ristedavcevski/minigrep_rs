@@ -3,7 +3,7 @@ name = "minigrep_rd"
 version = "0.1.0"
 edition = "2024"
 description = "A simple tool for searching through lines of text."
-repository = "https://github.com/ristedavcevski/minigrep_rs"
+repository = "https://github.com/ristedavcevski/minigrep_rd"
 license = "MIT OR Apache-2.0"
 
 [dependencies]
